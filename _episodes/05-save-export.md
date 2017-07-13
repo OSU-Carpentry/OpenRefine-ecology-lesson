@@ -32,8 +32,7 @@ or share this information as a supplement to a publication.
 
 1. Click the `Export` button in the top right and select `Export project`.
 2. A `tar.gz` file will download to your default `Download` directory. The `tar.gz` extension tells you that this is a compressed file.
-Which means that this file contains multiple files. You can double-click on the `tar.gz` file and it will expand into a directory. A 
-folder icon will now appear. 
+Which means that this file contains multiple files.  If using Mac or Linux, you can double-click on the `tar.gz` file and it will expand into a directory. If using Windows, right click the `tar.gz` file, hover over 7-Zip and select "Open archive". That gets you into the `gz` portion, now double click the `tar` file to get into there.
 3. Look at the files that appear in this folder. What files are here? What information do you think these files contain?
 
 > ## Solution
